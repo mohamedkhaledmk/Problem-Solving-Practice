@@ -42,9 +42,8 @@ That’s one of the main reasons I decided to make this repository public.
 
 ## 🔗 My Profiles
 
-- **GitHub:** [Your GitHub Link]
-- **Codeforces:** [Your Codeforces Handle / Link]
-- **LeetCode:** [Your LeetCode Profile Link]
+- **Codeforces:** [https://codeforces.com/profile/Muhammad_khaled]
+- **LeetCode:** [https://leetcode.com/u/Mohamedkhaledmk/]
 
 ---
 
@@ -61,7 +60,7 @@ Learning is better when shared.
 
 ## 📌 Notes
 
-- This repository will be **continuously updated** during the ITI scholarship.
+- This repository will be **continuously updated** during my ITI scholarship.
 - Solutions may improve over time as my skills evolve.
 
 ⭐ If you find this repository helpful, consider starring it!
