@@ -42,8 +42,8 @@ That’s one of the main reasons I decided to make this repository public.
 
 ## 🔗 My Profiles
 
-- **Codeforces:** [https://codeforces.com/profile/Muhammad_khaled]
-- **LeetCode:** [https://leetcode.com/u/Mohamedkhaledmk/]
+- **Codeforces:** https://codeforces.com/profile/Muhammad_khaled
+- **LeetCode:** https://leetcode.com/u/Mohamedkhaledmk/
 
 ---
 
