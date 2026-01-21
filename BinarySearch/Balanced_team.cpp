@@ -30,7 +30,7 @@ int main()
     }
     sort(v.begin(), v.end());
 
-    int l = 0, r = n, mid, ans = 0;
+    int l = 1, r = n, mid, ans = 1;
     while (l <= r)
     {
         mid = l + (r - l) / 2;
